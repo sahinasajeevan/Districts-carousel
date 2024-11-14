@@ -1,0 +1,21 @@
+.carousel-inner{
+  height:100vh;
+}
+.about-kerala{
+  margin-top: 50px;
+}
+.about-kerala p{
+  margin-left: 180px;
+  width:900px;
+  background-color: rgb(104, 149, 216);
+  border:1px solid beige;
+  padding: 10px;
+ 
+
+}
+h3{
+  color:blueviolet;
+  text-align: center;
+}
+
+
